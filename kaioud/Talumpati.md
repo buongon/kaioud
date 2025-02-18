@@ -16,7 +16,7 @@ SET A (Tuesday - feb 18)
 - [ ] 26 tila
 
  SET B (wednesday - feb 19)
-- [ ] 16 Mendoza
+- [x] 16 Mendoza
 - [ ] 20 sabuya
 - [ ] 28 trinidad
 - [ ] 12 lee
