@@ -1,7 +1,7 @@
 week 7
 
 SET A (Tuesday - feb 18)
-- [ ] 4 borhillo
+- [x] 4 borhillo
 - [ ] 15 marquez
 - [ ] 2 arciga
 - [ ] 1 alvarez
