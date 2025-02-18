@@ -11,7 +11,7 @@ SET A (Tuesday - feb 18)
 - [ ] 31 buenaobra
 - [x] 18 reyes
 - [x] 22 siasat
-- [ ] 19 rubio
+- [x] 19 rubio
 - [ ] 21 samar
 - [ ] 26 tila
 
