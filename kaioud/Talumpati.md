@@ -43,3 +43,7 @@ SET A (Tuesday - feb 18)
 - [ ] 5 cerado
 - [ ] 37 pinuela
 - [ ] 34 manumbas
+
+
+HAIRCUT INSPECTION THIS WEEK
+24-27 WEEK 8 EXAM
