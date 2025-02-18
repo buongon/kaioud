@@ -7,7 +7,7 @@ SET A (Tuesday - feb 18)
 - [ ] 1 alvarez
 - [ ] 36 pili
 - [x] 24 talusan
-- [ ] 29 agraan
+- [x] 29 agraan
 - [ ] 31 buenaobra
 - [ ] 18 reyes
 - [ ] 22 siasat
