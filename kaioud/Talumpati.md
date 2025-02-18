@@ -4,7 +4,7 @@ SET A (Tuesday - feb 18)
 - [x] 4 borhillo
 - [x] 15 marquez
 - [x] 2 arciga
-- [ ] 1 alvarez
+- [x] 1 alvarez
 - [ ] 36 pili
 - [x] 24 talusan
 - [x] 29 agraan
