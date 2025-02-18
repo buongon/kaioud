@@ -6,7 +6,7 @@ SET A (Tuesday - feb 18)
 - [x] 2 arciga
 - [ ] 1 alvarez
 - [ ] 36 pili
-- [ ] 24 talusan
+- [x] 24 talusan
 - [ ] 29 agraan
 - [ ] 31 buenaobra
 - [ ] 18 reyes
