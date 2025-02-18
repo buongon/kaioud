@@ -10,7 +10,7 @@ SET A (Tuesday - feb 18)
 - [x] 29 agraan
 - [ ] 31 buenaobra
 - [x] 18 reyes
-- [ ] 22 siasat
+- [x] 22 siasat
 - [ ] 19 rubio
 - [ ] 21 samar
 - [ ] 26 tila
