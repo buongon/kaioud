@@ -15,7 +15,7 @@ SET A (Tuesday - feb 18)
 - [ ] 21 samar
 - [ ] 26 tila
 
-- [ ] SET B (wednesday - feb 19)
+ SET B (wednesday - feb 19)
 - [ ] 16 Mendoza
 - [ ] 20 sabuya
 - [ ] 28 trinidad
@@ -31,7 +31,7 @@ SET A (Tuesday - feb 18)
 - [ ] 25 tersol
 - [ ] 32 ladaran
 
-- [ ] SET C (Friday - feb 21)
+ SET C (Friday - feb 21)
 - [ ] 27 torres
 - [ ] 11 lantion
 - [ ] 13 liao
