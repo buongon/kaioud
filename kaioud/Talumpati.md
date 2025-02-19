@@ -20,7 +20,7 @@ SET A (Tuesday - feb 18)
 - [x] 20 sabuya
 - [ ] 28 trinidad
 - [x] 12 lee
-- [ ] 14 mariano
+- [x] 14 mariano
 - [ ] 8 delfin
 - [ ] 10 gerolaga
 - [ ] 35 patricio
