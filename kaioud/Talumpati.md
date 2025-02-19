@@ -21,7 +21,7 @@ SET A (Tuesday - feb 18)
 - [ ] 28 trinidad
 - [x] 12 lee
 - [x] 14 mariano
-- [ ] 8 delfin
+- [x] 8 delfin
 - [ ] 10 gerolaga
 - [ ] 35 patricio
 - [ ] 30 aller
