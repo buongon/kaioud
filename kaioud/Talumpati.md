@@ -17,9 +17,9 @@ SET A (Tuesday - feb 18)
 
  SET B (wednesday - feb 19)
 - [x] 16 Mendoza
-- [ ] 20 sabuya
+- [x] 20 sabuya
 - [ ] 28 trinidad
-- [ ] 12 lee
+- [x] 12 lee
 - [ ] 14 mariano
 - [ ] 8 delfin
 - [ ] 10 gerolaga
