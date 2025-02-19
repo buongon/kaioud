@@ -12,7 +12,7 @@ SET A (Tuesday - feb 18)
 - [x] 18 reyes
 - [x] 22 siasat
 - [x] 19 rubio
-- [ ] 21 samar
+- [x] 21 samar
 - [x] 26 tila
 
  SET B (wednesday - feb 19)
