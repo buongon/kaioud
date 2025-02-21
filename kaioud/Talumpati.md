@@ -35,7 +35,7 @@ SET A (Tuesday - feb 18)
 - [x] 27 torres
 - [x] 11 lantion
 - [x] 13 liao
-- [ ] 38 poveda
+- [x] 38 poveda
 - [ ] 23 solis
 - [ ] 6 cervania
 - [ ] 33 lucero
