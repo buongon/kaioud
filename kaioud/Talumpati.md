@@ -5,7 +5,7 @@ SET A (Tuesday - feb 18)
 - [x] 15 marquez
 - [x] 2 arciga
 - [x] 1 alvarez
-- [ ] 36 pili
+- [x] 36 pili
 - [x] 24 talusan
 - [x] 29 agraan
 - [x] 31 buenaobra
