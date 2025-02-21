@@ -23,7 +23,7 @@ SET A (Tuesday - feb 18)
 - [x] 14 mariano
 - [x] 8 delfin
 - [x] 10 gerolaga
-- [ ] 35 patricio
+- [x] 35 patricio
 - [ ] 30 aller
 - [ ] 17 paquiz
 - [ ] 3 basilonia
