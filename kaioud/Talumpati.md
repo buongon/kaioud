@@ -28,8 +28,8 @@ SET A (Tuesday - feb 18)
 - [x] 17 paquiz
 - [x] 3 basilonia
 - [x] 9 gabales
-- [ ] 25 tersol
-- [ ] 32 ladaran
+- [x] 25 tersol
+- [x] 32 ladaran
 
  SET C (Friday - feb 21)
 - [ ] 27 torres
