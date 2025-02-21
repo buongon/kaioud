@@ -24,8 +24,8 @@ SET A (Tuesday - feb 18)
 - [x] 8 delfin
 - [x] 10 gerolaga
 - [x] 35 patricio
-- [ ] 30 aller
-- [ ] 17 paquiz
+- [x] 30 aller
+- [x] 17 paquiz
 - [ ] 3 basilonia
 - [ ] 9 gabales
 - [ ] 25 tersol
