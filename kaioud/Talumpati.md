@@ -27,7 +27,7 @@ SET A (Tuesday - feb 18)
 - [x] 30 aller
 - [x] 17 paquiz
 - [x] 3 basilonia
-- [ ] 9 gabales
+- [x] 9 gabales
 - [ ] 25 tersol
 - [ ] 32 ladaran
 
