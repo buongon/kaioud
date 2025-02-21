@@ -34,7 +34,7 @@ SET A (Tuesday - feb 18)
  SET C (Friday - feb 21)
 - [x] 27 torres
 - [x] 11 lantion
-- [ ] 13 liao
+- [x] 13 liao
 - [ ] 38 poveda
 - [ ] 23 solis
 - [ ] 6 cervania
