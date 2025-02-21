@@ -26,7 +26,7 @@ SET A (Tuesday - feb 18)
 - [x] 35 patricio
 - [x] 30 aller
 - [x] 17 paquiz
-- [ ] 3 basilonia
+- [x] 3 basilonia
 - [ ] 9 gabales
 - [ ] 25 tersol
 - [ ] 32 ladaran
